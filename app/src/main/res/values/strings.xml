@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dia2lab1</string>
+    <string name="btn1">Lineal Layout Vertical</string>
+    <string name="btn2">Lineal Layout Horizontal</string>
+    <string name="btn3">Relative Layout </string>
+    <string name="btn4">Table Layout </string>
+    <string name="btn5">Frame Layout </string>
+    <string name="btn6">List View</string>
+    <string name="btn7">Grid View </string>
+
+</resources>
